@@ -1,4 +1,5 @@
 ---
+layout: post
 author: gimslab.com
 ---
 # jekyll을 처음 실험해봤다.
