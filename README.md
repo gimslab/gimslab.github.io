@@ -13,3 +13,8 @@ $ JEKYLL_ENV=production bundle exec jekyll build
 
 # for github pages
 just commit and push to master branch
+
+# ing..
+https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site#adding-a-jekyll-theme-in-your-sites-_configyml-file
+
+https://github.com/pages-themes/modernist
