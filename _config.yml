@@ -1,7 +1,7 @@
+theme: modernist
 collections:
   authors:
     output: true
-
 
 defaults:
   - scope:
