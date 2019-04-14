@@ -1,4 +1,7 @@
-theme: modernist
+title: github pages of gimslab.com
+description: github pages of gimslab.com
+theme: jekyll-theme-modernist
+
 collections:
   authors:
     output: true
