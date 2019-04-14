@@ -1,2 +1,1 @@
-go to http://gimslab.github.io
-go to http://github.gimslab.com
+go to http://github.gimslab.com <-- http://gimslab.github.io
