@@ -8,7 +8,8 @@ title: Wiki
   {% for p in site.wikipages %}
     <li>
       <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
-      <h3>tags: {{ p.tags }}</h3>
+      <h5>tags: {{ p.tags }}</h5>
+      <h5>date: {{ p.date }}</h5>
       <p>{{ p.excerpt | markdownify }}</p>
     </li>
   {% endfor %}
