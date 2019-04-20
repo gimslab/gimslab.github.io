@@ -1,0 +1,17 @@
+---
+layout: default
+title: Wiki
+---
+<h1>Wiki</h1>
+
+<ul>
+  {% for p in site.wikipages %}
+    <li>
+      <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
+      <h3>tags: {{ p.tags }}</h3>
+      <h3>date: {{ p.date }}</h3>
+      <p>{{ p.excerpt | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
+  
