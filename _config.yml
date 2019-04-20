@@ -1,6 +1,8 @@
-theme: modernist
+#theme: modernist
 collections:
   authors:
+    output: true
+  wikipages:
     output: true
 
 defaults:
