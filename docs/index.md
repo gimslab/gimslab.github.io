@@ -4,6 +4,7 @@ title: Docs
 ---
 <h1>Docs</h1>
 
-[reading](reading.html)
+path `/docs/*` 문서들은 ```layout: doc``` 설정이 적용된다.
 
+[reading](reading.html)
 
