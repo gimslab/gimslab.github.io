@@ -6,5 +6,5 @@ title: Docs
 
 path `/docs/*` 문서들은 ```layout: doc``` 설정이 적용된다.
 
-[reading](reading.html)
+[reading.md](reading.md)
 
