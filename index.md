@@ -7,5 +7,6 @@ title: Home
 github for site : <https://github.com/gimslab/gimslab.github.io>
 
 ---
-[reading](_wiki/reading.md)
+* [wiki](wiki.html)
+* [reading](_wiki/reading.md)
 
