@@ -7,4 +7,4 @@ title: Home
 github for site : <https://github.com/gimslab/gimslab.github.io>
 
 ---
-* [docs/reading.md](docs/reading.md)
+* [docs/reading](docs/reading)
