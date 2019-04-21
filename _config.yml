@@ -7,6 +7,10 @@ collections:
 
 defaults:
   - scope:
+      path: "docs"
+    values:
+      layout: "docs"
+  - scope:
       path: ""
       type: "authors"
     values:
