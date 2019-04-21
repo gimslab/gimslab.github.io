@@ -8,5 +8,5 @@ github for site : <https://github.com/gimslab/gimslab.github.io>
 
 ---
 * [wiki](wiki.html)
-* [reading](reading.md)
+* [docs/reading](docs/reading.md)
 
