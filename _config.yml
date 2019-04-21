@@ -9,7 +9,7 @@ defaults:
   - scope:
       path: "docs"
     values:
-      layout: "docs"
+      layout: "doc"
   - scope:
       path: ""
       type: "authors"
