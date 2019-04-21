@@ -4,6 +4,6 @@ title: Docs
 ---
 <h1>Docs</h1>
 
-[reading.md](reading)
+[reading](reading.md)
 
 
