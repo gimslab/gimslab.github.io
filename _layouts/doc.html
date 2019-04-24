@@ -3,9 +3,14 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <ul>
-  <li>{{ page.date | date_to_string }}</li>
-  <li>tags: {{ page.tags }}</li>
+  <li>{{ page.createdat | date_to_string }} / {{ page.modifiedat | date_to_string }}</li>
+  <li>{{ page.tags }}</li>
 </ul>
 <hr/>
 
+[ <a href='https://github.com/gimslab/gimslab.github.io/edit/master/{{page.path}}'>Edit</a> ]
+
 {{ content }}
+
+<hr/>
+{{ page.path | file_date }}
